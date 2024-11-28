@@ -1,5 +1,4 @@
 # Öğrenci ve Ders Yönetim Sistemi
-# Öğrenci ve Ders Yönetim Sistemi
 
 Bu proje, bir *Öğrenci ve Ders Yönetim Sistemi* tasarımıdır. Sistem, temel OOP (Nesne Yönelimli Programlama) prensiplerini kullanarak, öğrenci, öğretim görevlisi ve ders yönetimini sağlar. 
 
