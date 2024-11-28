@@ -39,17 +39,6 @@ Bu proje, bir *Öğrenci ve Ders Yönetim Sistemi* tasarımıdır. Sistem, temel
 2. *Gereksinimler:*  
    - Proje bir .NET Core console uygulaması olarak geliştirilmiştir. Çalıştırmak için .NET Core SDK gereklidir.
 
-## Projenin Yapısı
-
-├── Classes
-│   ├── Kisi.cs         (Base Class)
-│   ├── Ogrenci.cs      (Derived Class)
-│   ├── OgretimGorevlisi.cs (Derived Class)
-│   ├── Ders.cs         (Course Management)
-├── Interfaces
-│   ├── IPerson.cs      (Interface)
-├── Program.cs          (Entry Point)
-
 ### Örnek Çıktılar
 *Öğrenci Tanımlama:*
 
